@@ -20,23 +20,24 @@ st.set_page_config(
 st.write('你好，这是我们团队做的新型电力系统预警平台')
 
 #图片
-st.image('resources/全年供需量图.jpg')
+st.image('项目实战之AI应用/resources/全年供需量图.jpg')
 
 #音频
 #st.audio('')
 
 #视频
-st.video('resources/视频1.mp4')
+st.video('项目实战之AI应用/resources/视频1.mp4')
 
 
 #logo
-st.logo('resources/图片1.png')
+st.logo('项目实战之AI应用/resources/图片1.png')
 
 
 #表格
 #st.table('')
 
 #输入框
+
 
 
 
